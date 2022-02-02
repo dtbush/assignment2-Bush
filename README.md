@@ -11,3 +11,10 @@ Senor Burrito sits across the street from a **US Bank** Branch. **Citizens Bank 
 2. Take a left on 46 highway and travel for about 4 Miles
 3. Take a right on main street
 4. The destination will be on youur left
+
+Things you MUST try
+* Nachos
+* Carnitas
+* Barbacoa 
+* Burrito
+* Jarritos
