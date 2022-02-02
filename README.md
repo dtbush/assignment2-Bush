@@ -4,6 +4,7 @@ WebApps Markdown Practice
 ## Senor Burrito
 Senor Burrito sits across the street from a **US Bank** Branch. **Citizens Bank & Trust** is north on main from Senor Burrito. Behind Senor Burrito, to its east, lies **First Baptist Church**.
 
+
 ***
 
 # Directions from NW Missouri Reigonal Airport to Senor Burrito
