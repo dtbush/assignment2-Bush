@@ -30,3 +30,10 @@ Learn More about me [Here](https://github.com/dtbush/assignment2-Bush/edit/main/
 |Football|Bearcat Stadium|$750|
 |Soccer| Field House| $150 |
 |Basketball| Bearcat Arena| $150|
+
+***
+
+# Quotes
+> "We cannot solve our problems with the same thinking we used when we created them." -*Albert Einstein*
+
+> "The first step is to establish that something is possible; then probability will occur." -*Elon Musk*
