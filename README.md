@@ -21,3 +21,12 @@ Things you MUST try
 * Jarritos
 
 Learn More about me [Here](https://github.com/dtbush/assignment2-Bush/edit/main/ABOUTME.md)
+
+***
+
+# Sports
+|Sport|Location|Equipment Price|
+| --- | ---     | --- |
+|Football|Bearcat Stadium|$750|
+|Soccer| Field House| $150 |
+|Basketball| Bearcat Arena| $150|
